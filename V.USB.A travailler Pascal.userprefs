@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\scriptGameOver.cs">
+    <Files>
+      <File FileName="..\V.USB.A travailler\Assets\Platforme\Assets\Scripts\Player\PlayerMovement.cs" Line="122" Column="4" />
+      <File FileName="Assets\Platforme\Assets\Scripts\Player\PlayerMovement.cs" Line="106" Column="20" />
+      <File FileName="Assets\Scripts\scriptGameOver.cs" Line="39" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

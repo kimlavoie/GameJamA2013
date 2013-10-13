@@ -1,0 +1,911 @@
+Initialize engine version: 4.2.2f1 (54f0fc09defb)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdx32.dll 8.15.10.2869]
+    Renderer: Mobile Intel(R) 4 Series Express Chipset Family
+    Vendor:   Intel
+    VRAM:     879 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=0 INTZ=1 RAWZ=0 NULL=0 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Johnny\Desktop\Merger_Johnny+Pascal\BuildTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Johnny\Desktop\Merger_Johnny+Pascal\BuildTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Johnny\Desktop\Merger_Johnny+Pascal\BuildTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Johnny\Desktop\Merger_Johnny+Pascal\BuildTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.089 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+UnloadTime: 0.723460 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 235.
+Total: 2.407951 ms (FindLiveObjects: 0.075279 ms CreateObjectMapping: 0.025907 ms MarkObjects: 0.241968 ms  DeleteObjects: 0.591478 ms)
+
+UnloadTime: 0.784564 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 232.
+Total: 1.673736 ms (FindLiveObjects: 0.039594 ms CreateObjectMapping: 0.025418 ms MarkObjects: 0.246856 ms  DeleteObjects: 0.011731 ms)
+
+UnloadTime: 0.777231 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 911.
+Total: 1.607745 ms (FindLiveObjects: 0.096298 ms CreateObjectMapping: 0.028840 ms MarkObjects: 0.202373 ms  DeleteObjects: 0.432610 ms)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Ta mere
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+IndexOutOfRangeException: Array index is out of range.
+  at animation+<Animate>c__Iterator2.MoveNext () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+3
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+0
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+1
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+2
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1657)
+
+UnloadTime: 5.843413 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 204.
+Total: 3.879803 ms (FindLiveObjects: 0.026396 ms CreateObjectMapping: 0.034706 ms MarkObjects: 0.250278 ms  DeleteObjects: 2.168427 ms)
+

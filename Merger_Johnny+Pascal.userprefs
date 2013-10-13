@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\scriptGameOver.cs">
+    <Files>
+      <File FileName="Assets\Platforme\Assets\Scripts\Player\PlayerMovement.cs" Line="69" Column="40" />
+      <File FileName="Assets\DatingSimScene1\Dialogues\3\D3_9.cs" Line="23" Column="4" />
+      <File FileName="Assets\DatingSimScene1\Dialogues\2\D2_14.cs" Line="1" Column="1" />
+      <File FileName="Assets\Platforme\Assets\Scripts\Player\PlayerMovement_002.cs" Line="94" Column="40" />
+      <File FileName="Assets\Platforme\Assets\Scripts\GererVariablesGlobales.cs" Line="4" Column="36" />
+      <File FileName="Assets\Platforme\Assets\AccesVariableGlobale.cs" Line="12" Column="73" />
+      <File FileName="Assets\Store\StoreButtonsScript.cs" Line="81" Column="38" />
+      <File FileName="Assets\Scripts\scriptGameOver.cs" Line="11" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

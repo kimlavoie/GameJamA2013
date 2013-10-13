@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DatingSimScene1\Dialogues\4\D4_7.cs">
+    <Files>
+      <File FileName="Assets\DatingSimScene1\Dialogues\4\D4_7.cs" Line="11" Column="20" />
+      <File FileName="Assets\Platforme\Assets\Scripts\Vision\LightSpotAngle.cs" Line="18" Column="3" />
+      <File FileName="Assets\Platforme\Assets\Scripts\Vision\LightSpotAngle_002.cs" Line="12" Column="76" />
+      <File FileName="Assets\Scripts\scriptGameOver.cs" Line="24" Column="39" />
+      <File FileName="Assets\Scripts\menu.cs" Line="61" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

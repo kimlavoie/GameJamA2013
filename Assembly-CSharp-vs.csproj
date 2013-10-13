@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{913518C4-7ECF-21B6-462F-D6975550319F}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_2_2;UNITY_4_2;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\DatingSimScene1\AwakeManagerScript.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_10.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_11.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_12.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_13.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_14.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_2.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_3.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_4.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_5.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_6.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_7.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_8.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\1\D1_9.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_10.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_11.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_12.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_13.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_13_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_13_2.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_13_2_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_13_2_2.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_13_2_3.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_13_2_4.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_14.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_2.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_3.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_4.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_5.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_6.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_7.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_8.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\2\D2_9.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_2.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_3.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_4.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_5.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_6.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_7.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_7_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_7_1_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_7_2.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_7_2_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_7_3.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_7_3_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_7_4.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_7_4_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_8.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\3\D3_9.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_2.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_3.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_4.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_5.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_6.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_7.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_7_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_7_1_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_7_1_2.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_7_1_3.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_7_2.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_7_2_1.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\4\D4_8.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\Dialogue.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\DialogueManager.cs" />
+     <Compile Include="Assets\DatingSimScene1\Dialogues\DialogueTemplate.cs" />
+     <Compile Include="Assets\DatingSimScene1\GUIButtonsScript.cs" />
+     <Compile Include="Assets\DatingSimScene1\GirlMaterials.cs" />
+     <Compile Include="Assets\Platforme\Assets\AccesVariableGlobale.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\DontDestroy.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\Enemies\DoucheMouvement.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\Enemies\DoucheMovement_002.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\GererVariablesGlobales.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\MovingCube\CubeMoving_001.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\MovingCube\CubeMoving_002.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\MovingCube\CubeMoving_003.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\MovingCube\CubeMoving_004.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\MovingCube\CubeMoving_005.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\MovingCube\CubeMoving_006.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\MovingCube\CubeMoving_007.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\MovingCube\CubeMoving_008.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\MovingCube\CubeMoving_009.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\MovingCube\MovingCubeRigh.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\MovingCube\MovingCubeUp.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\Player\PlayerMovement.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\Player\PlayerMovement_002.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\Vision\LightSpotAngle.cs" />
+     <Compile Include="Assets\Platforme\Assets\Scripts\Vision\LightSpotAngle_002.cs" />
+     <Compile Include="Assets\Scripts\animation.cs" />
+     <Compile Include="Assets\Scripts\menu.cs" />
+     <Compile Include="Assets\Scripts\scriptGameOver.cs" />
+     <Compile Include="Assets\Scripts\scriptWinScene.cs" />
+     <Compile Include="Assets\Scripts\speed.cs" />
+     <Compile Include="Assets\Store\StoreButtonsScript.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
